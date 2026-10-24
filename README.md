@@ -3,20 +3,16 @@ I don't know who wrote your codebase. I don't know what unhandled exception you'
 
 
 <div align="center">
-
   <h3><code>aravind@github ~ $ ./contributions.sh</code></h3>
-  <img src="./contrib-heatmap.svg" width="860" />
-
+  <img src="./contrib-heatmap.svg?v=2" width="860" />
   <br><br>
-
   <h3><code>aravind@github ~ $ whoami</code></h3>
   <table>
     <tr>
-      <td valign="top"><img src="./avi-ascii.svg" width="370" /></td>
-      <td valign="top"><img src="./info-card.svg?v=1" width="490" /></td>
+      <td valign="top"><img src="./avi-ascii.svg?v=2" width="370" /></td>
+      <td valign="top"><img src="./info-card.svg?v=2" width="490" /></td>
     </tr>
   </table>
-
 </div>
 
 ## 🌐 Socials:
