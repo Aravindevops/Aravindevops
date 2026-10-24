@@ -13,7 +13,7 @@ I don't know who wrote your codebase. I don't know what unhandled exception you'
   <table>
     <tr>
       <td valign="top"><img src="./avi-ascii.svg" width="370" /></td>
-      <td valign="top"><img src="./info-card.svg" width="490" /></td>
+      <td valign="top"><img src="./info-card.svg?v=1" width="490" /></td>
     </tr>
   </table>
 
