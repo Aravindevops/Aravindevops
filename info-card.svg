@@ -14,7 +14,7 @@
     <text x="0" y="50" class="line" style="animation-delay: 0.8s;"><tspan fill="#58a6ff">Role:</tspan> Full-Stack Web Developer</text>
     <text x="0" y="75" class="line" style="animation-delay: 0.95s;"><tspan fill="#58a6ff">Stack:</tspan> React, Node.js, Python, SQL, Tailwind</text>
     <text x="0" y="100" class="line" style="animation-delay: 1.1s;"><tspan fill="#58a6ff">Edu:</tspan> B.Tech CSE @ VISAT Engineering College</text>
-    <text x="0" y="125" class="line" style="animation-delay: 1.25s;"><tspan fill="#58a6ff">Focus:</tspan> Web Apps & Agentic Workflows</text>
+    <text x="0" y="125" class="line" style="animation-delay: 1.25s;"><tspan fill="#58a6ff">Focus:</tspan> Web Apps &amp; Agentic Workflows</text>
     <text x="0" y="150" class="line" style="animation-delay: 1.4s;"><tspan fill="#58a6ff">Projects:</tspan> SkillGrid, Campustry, EduStream</text>
   </g>
 </svg>
