@@ -375,5 +375,5 @@
   <rect class="box" x="780" y="45" width="11" height="11" rx="2" fill="#161b22" style="animation-delay: 1.1s;" />
   <rect class="box" x="780" y="60" width="11" height="11" rx="2" fill="#161b22" style="animation-delay: 1.12s;" />
   <rect class="box" x="780" y="75" width="11" height="11" rx="2" fill="#161b22" style="animation-delay: 1.1400000000000001s;" />
-  <rect class="box" x="780" y="90" width="11" height="11" rx="2" fill="#161b22" style="animation-delay: 1.16s;" />
+  <rect class="box" x="780" y="90" width="11" height="11" rx="2" fill="#0e4429" style="animation-delay: 1.16s;" />
 </svg>
