@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 490 300" width="490" height="300">
+  <rect width="100%" height="100%" fill="#0d1117" rx="8" />
+  <style>
+    .text { font-family: Consolas, 'Courier New', monospace; font-size: 15px; fill: #c9d1d9; }
+    .line { opacity: 0; animation: fadeInSlide 0.4s ease-out forwards; }
+    @keyframes fadeInSlide {
+      from { opacity: 0; transform: translateY(10px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+  </style>
+  <g class="text" transform="translate(20, 40)">
+    <text x="0" y="0" class="line" style="animation-delay: 0.5s;"><tspan fill="#7ee787">aravind</tspan><tspan fill="#c9d1d9">@</tspan><tspan fill="#58a6ff">github</tspan></text>
+    <text x="0" y="25" class="line" style="animation-delay: 0.65s;">-------------------------</text>
+    <text x="0" y="50" class="line" style="animation-delay: 0.8s;"><tspan fill="#58a6ff">Role:</tspan> Full-Stack Web Developer</text>
+    <text x="0" y="75" class="line" style="animation-delay: 0.95s;"><tspan fill="#58a6ff">Stack:</tspan> React, Node.js, Python, SQL, Tailwind</text>
+    <text x="0" y="100" class="line" style="animation-delay: 1.1s;"><tspan fill="#58a6ff">Edu:</tspan> B.Tech CSE @ VISAT Engineering College</text>
+    <text x="0" y="125" class="line" style="animation-delay: 1.25s;"><tspan fill="#58a6ff">Focus:</tspan> Web Apps & Agentic Workflows</text>
+    <text x="0" y="150" class="line" style="animation-delay: 1.4s;"><tspan fill="#58a6ff">Projects:</tspan> SkillGrid, Campustry, EduStream</text>
+  </g>
+</svg>
