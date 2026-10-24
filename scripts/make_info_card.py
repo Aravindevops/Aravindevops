@@ -9,14 +9,14 @@ def make_info_card(output_path="info-card.svg"):
     accent_color = "#58a6ff"
     prompt_color = "#7ee787"
 
-    # The content of your card
+    # The content of your card (fixed the & character here)
     lines = [
         f'<tspan fill="{prompt_color}">aravind</tspan><tspan fill="{text_color}">@</tspan><tspan fill="{accent_color}">github</tspan>',
         '-------------------------',
         f'<tspan fill="{accent_color}">Role:</tspan> Full-Stack Web Developer',
         f'<tspan fill="{accent_color}">Stack:</tspan> React, Node.js, Python, SQL, Tailwind',
         f'<tspan fill="{accent_color}">Edu:</tspan> B.Tech CSE @ VISAT Engineering College',
-        f'<tspan fill="{accent_color}">Focus:</tspan> Web Apps & Agentic Workflows',
+        f'<tspan fill="{accent_color}">Focus:</tspan> Web Apps &amp; Agentic Workflows',
         f'<tspan fill="{accent_color}">Projects:</tspan> SkillGrid, Campustry, EduStream'
     ]
 
@@ -39,7 +39,7 @@ def make_info_card(output_path="info-card.svg"):
     y_spacing = 25
     
     for i, line in enumerate(lines):
-        delay = 0.5 + (i * delay_step) # 0.5s initial pause to sync with ascii portrait
+        delay = 0.5 + (i * delay_step)
         y_pos = i * y_spacing
         svg.append(f'    <text x="0" y="{y_pos}" class="line" style="animation-delay: {delay}s;">{line}</text>')
 
