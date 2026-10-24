@@ -2,6 +2,23 @@
 I don't know who wrote your codebase. I don't know what unhandled exception you're looking for. If you're looking for a quick patch, I can tell you I don't do sloppy work. But what I do have are a very particular set of skills. Skills I've acquired engineering full-stack systems from the ground up. Skills that make me a absolute nightmare for memory leaks, crashing servers, and broken logic. <br>If you merge my pull request now, that'll be the end of it. I will not look for your technical debt, I will not audit your legacy code. But if you don't... I will find your repository, I will trace your stack trace, and I will refactor you. <br>I'm Aravind Babu. And I build web apps.
 
 
+<div align="center">
+
+  <h3><code>aravind@github ~ $ ./contributions.sh</code></h3>
+  <img src="./contrib-heatmap.svg" width="860" />
+
+  <br><br>
+
+  <h3><code>aravind@github ~ $ whoami</code></h3>
+  <table>
+    <tr>
+      <td valign="top"><img src="./avi-ascii.svg" width="370" /></td>
+      <td valign="top"><img src="./info-card.svg" width="490" /></td>
+    </tr>
+  </table>
+
+</div>
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aravindbabu398) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aravind-babu5/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Aravindbabu) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@Aravind89373193) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aravindbabu.0001@gmail.com) 
 
